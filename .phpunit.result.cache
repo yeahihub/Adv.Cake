@@ -1,0 +1,1 @@
+{"version":2,"defects":{"Tests\\Unit\\ReverseStringTest::testItReversesWordsPreservingCase":8,"Tests\\Unit\\StringReverserTest::testItReversesWordsPreservingCase":7},"times":{"Tests\\Unit\\ReverseStringTest::testItReversesWordsPreservingCase":0.002,"Tests\\Unit\\StringReverserTest::testItReversesWordsPreservingCase":0.001}}
